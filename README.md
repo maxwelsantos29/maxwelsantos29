@@ -2,7 +2,7 @@
 
 Meu nome é Maxwel dos Santos Ribeiro
 
-- Estou estudando na alura;
+- Estou estudando na alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
